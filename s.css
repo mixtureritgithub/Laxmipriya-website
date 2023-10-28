@@ -1,0 +1,29 @@
+
+h1{
+    color: rgb(107, 223, 134);
+}
+p{
+    color: rgb(245, 96, 10);
+}
+body{
+    background-color: rgb(200, 10, 255);
+}
+button{
+    background-color: rgb(208, 14, 14);
+    color: darkblue;
+}
+h2{
+    color: aqua;
+}
+h3{
+    color: bisque;
+}
+h4{
+    color: crimson;
+}
+h5{
+    color: yellow;
+}
+h6{
+    color: aquamarine;
+}
